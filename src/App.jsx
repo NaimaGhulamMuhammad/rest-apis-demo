@@ -31,10 +31,10 @@ const {TabPane} = Tabs;
     </Tabs>
 
       <div className="footer">
-      <a href="">Fork</a> &nbsp; &nbsp;
-      <a href="https://twitter.com/Codinggir">Follow me on twitter</a> &nbsp; &nbsp;
-      <a href="https://www.linkedin.com/in/naima-ghulammuhammad/">Connect me on Linkedin</a> &nbsp; &nbsp;
-      <a href="https://www.instagram.com/naimaghm/">@naimaghm</a> &nbsp; &nbsp;
+      <a href="">Fork</a> &nbsp; &nbsp; &nbsp;
+      <a href="https://twitter.com/Codinggir">Follow me on twitter</a> &nbsp; &nbsp; &nbsp;
+      <a href="https://www.linkedin.com/in/naima-ghulammuhammad/">Connect me on Linkedin</a> &nbsp; &nbsp; &nbsp;
+      <a href="https://www.instagram.com/naimaghm/">Instagram</a> &nbsp; &nbsp;
       
       </div>
       </div>
