@@ -2,10 +2,11 @@
   text-align: center;
   vertical-align: center;
   height: 100vh;
-  margin: 10%;
+  padding: 10%;
+  position: relative;
 }
 .footer{
-  position:absolute;
+  position:fixed;
   bottom: 0;
   background:black;
   padding: 5px;

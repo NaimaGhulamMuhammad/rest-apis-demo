@@ -22,7 +22,6 @@ const [word, setWord] = useState('');
     setData(res.data);
     console.log('res', res,value)
   };
-
 return(
   <>
     <p>API URL:</p> <a href="https://rapidapi.com/raz0229/api/al-quran1/">{url}</a><br /> <br/>
@@ -33,8 +32,6 @@ return(
       size="large"
       onSearch={onSearch}
     />
-
-
   {data && <List
             dataSource={data}
              renderItem = {item => (

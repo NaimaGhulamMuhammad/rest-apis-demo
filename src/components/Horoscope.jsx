@@ -3,8 +3,6 @@ import {Select, Descriptions, message} from "antd";
 import axios from "axios";
 
 const url ="https://horostory.p.rapidapi.com/horoscope?date=today"
-// const host = process.env['horoscope_host'];
-// const key = process.env['horoscope_key']
 
 const Horoscope = () => {
   
